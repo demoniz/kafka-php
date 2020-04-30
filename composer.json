@@ -15,7 +15,10 @@
     "autoload": {
         "psr-0": {
             "Kafka\\": "src/"
-        }
+        },
+	"files": [
+            "src/Kafka/Amp/functions.php",
+        ]
     },
     "autoload-dev": {
         "psr-0": {
