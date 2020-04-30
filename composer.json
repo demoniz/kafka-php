@@ -17,7 +17,7 @@
             "Kafka\\": "src/"
         },
 	"files": [
-            "src/Kafka/Amp/functions.php",
+            "src/Kafka/Amp/functions.php"
         ]
     },
     "autoload-dev": {
